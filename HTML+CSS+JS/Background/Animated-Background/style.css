@@ -28,7 +28,7 @@ h2{
     background-color:transparent;
     border: 15px solid white;
     border-radius: 15px;
-    animation:animate 10s linear infinite;
+    animation:animate zoom-in-zoom-out 1s linear infinite;
 }
 
 .box div:nth-child(1){
